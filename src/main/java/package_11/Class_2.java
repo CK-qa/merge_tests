@@ -1,4 +1,4 @@
-package package_1;
+package package_11;
 
 public class Class_2 {
     public void foo_renamed2() {
