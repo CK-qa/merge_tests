@@ -1,4 +1,4 @@
-package package_1;
+package package_11;
 
 public class Class_5 {
     public void foo5() {
@@ -11,4 +11,6 @@ public class Class_5 {
     }
 
     //modified in branch2
+
+    //modified in branch_1
 }
