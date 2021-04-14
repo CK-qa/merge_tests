@@ -1,6 +1,6 @@
 package package_1;
 
-public class Class_9 {
+public class Class_9_renamed {
     public void foo9() {
     }
 
