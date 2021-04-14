@@ -9,4 +9,6 @@ public class Class_6 {
 
     public void bar() {
     }
+
+    //modified in branch_2
 }
