@@ -9,4 +9,6 @@ public class Class_2 {
 
     public void bar() {
     }
+
+    //modified line - branch_1
 }
