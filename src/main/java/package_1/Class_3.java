@@ -4,7 +4,7 @@ public class Class_3 {
     public void foo3() {
     }
 
-    public void foo() {
+    public void foo_renamed() {
     }
 
     public void bar() {
