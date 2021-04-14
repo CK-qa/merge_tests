@@ -10,5 +10,5 @@ public class Class_6_renamed {
     public void bar() {
     }
 
-    //modified in branch_1
+    //modified in branch_2
 }

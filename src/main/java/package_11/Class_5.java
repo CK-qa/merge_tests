@@ -10,5 +10,7 @@ public class Class_5 {
     public void bar() {
     }
 
+    //modified in branch2
+
     //modified in branch_1
 }
