@@ -6,4 +6,7 @@ public class Class_2 {
 
     public void foo() {
     }
+
+    public void bar() {
+    }
 }
