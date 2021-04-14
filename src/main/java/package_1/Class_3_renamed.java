@@ -12,5 +12,7 @@ public class Class_3_renamed {
 
     //modified in branch_1
 
+    //modified in branch2
+
     //modified in branch1
 }
